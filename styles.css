@@ -1,6 +1,6 @@
 body {
   color: #ffffff;
-  background: linear-gradient(#a2d2ff, #efb0c9);
+  background: linear-gradient(#ff6a14, #a928ff);
   font-family: "Happy Monkey", cursive;
   text-align: center;
 }
@@ -16,12 +16,12 @@ p {
 #bff-img {
   width: 150px;
   border-radius: 50%;
-  border: 6px solid #efb0c9;
+  border: 6px solid #a928ff;
   margin-bottom: 10px;
 }
 
 #bday-age {
-  background: #efb0c9;
+  background: #a928ff;
   padding: 5px 10px;
   border-radius: 5px;
   margin: 5px 0 10px 0;
@@ -29,7 +29,7 @@ p {
 
 #bday-date {
   margin: 0;
-  background: #efb0c9;
+  background: #a928ff;
   padding: 5px 10px;
   border-radius: 5px;
 }
